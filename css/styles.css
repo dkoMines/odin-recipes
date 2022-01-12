@@ -1,0 +1,19 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h1 {
+    color: darkslateblue;
+    background-color: wheat;
+    text-align: right;
+    border-style: dashed;
+    border-color: green;
+}
+
+ul {
+    text-align: center;
+}
+a {
+    background-color: green;
+}
